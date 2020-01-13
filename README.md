@@ -3,11 +3,12 @@ Join us!
 
 # About 
 
-### Who & Why
-A distributed team of software engineers, distributed systems experts and technologists passionate about self sovereignty, privacy and operational security. We work both for internal funded projects and for clients, we do our best to attract and land only Bitcoin projects.
-
 ### What
 Vulpem is a technology R&D lab focused on Bitcoin security and trust-minimized application development. We are the creators of https://nigiri.vulpem.com and https://liquid.taxi
+
+### Who & Why
+
+A distributed team of software engineers and technologists passionate about self sovereignty, privacy and operational security. We work both for internal funded projects and for clients, we do our best to attract and land only Bitcoin projects.
 
 ### How 
 
@@ -30,6 +31,7 @@ People in Vulpem have possibility to work both with a *regular* full position an
 
 # Open positions
 
-None.
+* [Software engineer](engineer.md) 
+
 
 
