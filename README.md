@@ -4,7 +4,7 @@ Join us!
 # About 
 
 ### What
-Vulpem is a technology R&D lab focused on Bitcoin security and trust-minimized application development. We are the creators of https://nigiri.vulpem.com and https://liquid.taxi
+Vulpem is a technology R&D lab focused on Bitcoin security and trust-minimized application development. We are the creators of [Nigiri CLI](https://nigiri.vulpem.com), [Liquid Coach](https://liquid.coach) and [Liquid Taxi](https://liquid.taxi). We are the maintainers of [Go Elements](github.com/vulpemventures/go-elements) and contributors of [LiquidJS](https://github.com/provable-things/liquidjs-lib)
 
 ### Who & Why
 
