@@ -31,7 +31,10 @@ People in Vulpem have possibility to work both with a *regular* full position an
 
 # Open positions
 
-* [Software engineer](engineer.md) 
+* [Backend Software Engineer](backend.md) 
+* [Frontend Software Engineer](frontend.md) 
+* [Junior Product Manager](pm.md) 
+
 
 
 
