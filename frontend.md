@@ -1,0 +1,23 @@
+# Frontend Software Engineer 
+
+An ideal candidate would have a strong passion for Bitcoin and a desire to make using Bitcoin secure, fast, and simple for everyone.
+
+**Roles**
+
+- Writing and maintaining client-side code and implement entire user-stories in autonomy.
+- Integrating APIs for the Vulpem's ecosystem of internal and external products.
+- Take ownership of products, hence make careful code reviews to other team members.
+
+
+**Skills**
+ 
+- Strong expertise with Browser APIs and HTML, CSS and JavaScript & TypeScript.
+- Knowledge of either React or Svelte and related ecosystems. 
+- Experience with empathetic, human-centered software design.
+- Solid engineering practices and processes, such as a solid testing methodology and documentation.
+- Prior contributions to open source projects and experience in software development projects.
+- Understanding of Bitcoin, other digital currencies, and cryptography in general is preferred.
+- Understanding of distributed systems architectures and implications of peer-to-peer apps.
+- Ability and eagerness to pick things up quickly, take ownership of projects, and develop new skills.
+
+### [Apply](https://forms.gle/GHBY5MDUgozy9e8w9)
