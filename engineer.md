@@ -1,4 +1,4 @@
-# Software Engineer 
+# Backend Software Engineer 
 
 An ideal candidate would have a strong passion for Bitcoin and a desire to make using Bitcoin secure, fast, and simple for everyone.
 
