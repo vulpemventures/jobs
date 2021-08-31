@@ -25,7 +25,7 @@ Full remote. No offices. We strive to do an annual gathering of a week once a ye
 
 ### When
 
-People in Vulpem have possibility to work both with a *regular* full position and to wok with an [extremely distributed software development methodology](https://www.xdsd.org)
+People in Vulpem have possibility to work both with a *regular* full position and to work with an [extremely distributed software development methodology](https://www.xdsd.org)
 
 
 
